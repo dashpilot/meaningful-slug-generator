@@ -1,5 +1,5 @@
 # meaningful-slug-generator
-NPM Module that generates meaningful and easy-to-remember strings, in the form of {adjective}-{noun}-{number}. Inspired by Netlify's random subdomains.
+NPM module that generates meaningful and easy-to-remember strings, in the form of {adjective}-{noun}-{number}. Inspired by Netlify's random subdomains.
 
 ## Installation
 ```
