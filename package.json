@@ -1,6 +1,6 @@
 {
   "name": "@dashpilot/meaningful-slug-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates meaningful and easy-to-remember strings, in the form of {adjective}-{noun}-{number}",
   "main": "index.js",
   "scripts": {
