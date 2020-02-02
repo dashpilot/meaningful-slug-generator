@@ -1,7 +1,12 @@
 # meaningful-slug-generator
-Generates meaningful and easy-to-remember strings, in the form of {adjective}-{noun}-{number}. Inspired by Netlify's random subdomains.
+NPM Module that generates meaningful and easy-to-remember strings, in the form of {adjective}-{noun}-{number}. Inspired by Netlify's random subdomains.
 
-# Usage
+## Usage
+```
+npm i @dashpilot/meaningful-slug-generator
+```
+
+## Usage
 
 ```javascript
 const slug = require('@dashpilot/meaningful-slug-generator')
